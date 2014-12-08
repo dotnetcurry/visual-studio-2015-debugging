@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesLibrary", "SalesLibrary\SalesLibrary.csproj", "{1A0C6268-0C9D-4FBC-935A-1207E7255FBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesCalculatorUI", "SalesCalculatorUI\SalesCalculatorUI.csproj", "{AFA3BEEB-958D-446C-AF32-7D82F3B48950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A0C6268-0C9D-4FBC-935A-1207E7255FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0C6268-0C9D-4FBC-935A-1207E7255FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0C6268-0C9D-4FBC-935A-1207E7255FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0C6268-0C9D-4FBC-935A-1207E7255FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA3BEEB-958D-446C-AF32-7D82F3B48950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA3BEEB-958D-446C-AF32-7D82F3B48950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA3BEEB-958D-446C-AF32-7D82F3B48950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA3BEEB-958D-446C-AF32-7D82F3B48950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

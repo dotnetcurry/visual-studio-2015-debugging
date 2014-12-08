@@ -1,0 +1,6 @@
+g:\users\pravinkumar\documents\visual studio 2015\Projects\VisualStudio2015DebugDemo\SalesLibrary\bin\Debug\SalesLibrary.dll
+g:\users\pravinkumar\documents\visual studio 2015\Projects\VisualStudio2015DebugDemo\SalesLibrary\bin\Debug\SalesLibrary.pdb
+g:\users\pravinkumar\documents\visual studio 2015\Projects\VisualStudio2015DebugDemo\SalesLibrary\obj\Debug\SalesLibrary.csprojResolveAssemblyReference.cache
+g:\users\pravinkumar\documents\visual studio 2015\Projects\VisualStudio2015DebugDemo\SalesLibrary\obj\Debug\SalesLibrary.dll
+g:\users\pravinkumar\documents\visual studio 2015\Projects\VisualStudio2015DebugDemo\SalesLibrary\obj\Debug\SalesLibrary.pdb
+G:\Users\Pravinkumar\Documents\Visual Studio 2015\Projects\VisualStudio2015DebugDemo\SalesLibrary\bin\Debug\SalesLibrary.dll.config

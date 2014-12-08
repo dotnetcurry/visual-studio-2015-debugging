@@ -1,0 +1,8 @@
+g:\users\pravinkumar\documents\visual studio 2015\Projects\VisualStudio2015DebugDemo\SalesCalculatorUI\bin\Debug\SalesCalculatorUI.exe.config
+g:\users\pravinkumar\documents\visual studio 2015\Projects\VisualStudio2015DebugDemo\SalesCalculatorUI\bin\Debug\SalesCalculatorUI.exe
+g:\users\pravinkumar\documents\visual studio 2015\Projects\VisualStudio2015DebugDemo\SalesCalculatorUI\bin\Debug\SalesCalculatorUI.pdb
+g:\users\pravinkumar\documents\visual studio 2015\Projects\VisualStudio2015DebugDemo\SalesCalculatorUI\bin\Debug\SalesLibrary.dll
+g:\users\pravinkumar\documents\visual studio 2015\Projects\VisualStudio2015DebugDemo\SalesCalculatorUI\bin\Debug\SalesLibrary.pdb
+g:\users\pravinkumar\documents\visual studio 2015\Projects\VisualStudio2015DebugDemo\SalesCalculatorUI\obj\Debug\SalesCalculatorUI.csprojResolveAssemblyReference.cache
+g:\users\pravinkumar\documents\visual studio 2015\Projects\VisualStudio2015DebugDemo\SalesCalculatorUI\obj\Debug\SalesCalculatorUI.exe
+g:\users\pravinkumar\documents\visual studio 2015\Projects\VisualStudio2015DebugDemo\SalesCalculatorUI\obj\Debug\SalesCalculatorUI.pdb
